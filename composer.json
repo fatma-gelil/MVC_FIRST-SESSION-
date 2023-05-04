@@ -1,0 +1,17 @@
+{
+    "name": "fatma/mvc",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "authors": [
+        {
+            "name": "fatma Gelil",
+            "email": "gelilfatma79@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-mysql_xdevapi": "*"
+    }
+}
